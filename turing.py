@@ -99,3 +99,4 @@ while continuar:
         mensagem = erro()
 
     print(mensagem)
+Mudança significativa no código
